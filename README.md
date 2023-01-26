@@ -10,17 +10,17 @@ These solutions are implemented using Infrastructure as Code with different tool
 
 Last update: 23/01/2023
 ### Data Management and Analytics
-- [Build a Foundation Data Pipeline with Google Cloud](goo.gle/c-GCStoBQ)
-- [Cloud SQL for PostgreSQL disaster recovery: A complete failover and fallback process](goo.gle/c-CloudSQLMR)
+- [Build a Foundation Data Pipeline with Google Cloud](https://goo.gle/c-GCStoBQ)
+- [Cloud SQL for PostgreSQL disaster recovery: A complete failover and fallback process](https://goo.gle/c-CloudSQLMR)
 
 ### Security, Logging and Monitoring
-- [HTTP Load Balancer with Cloud Armor](goo.gle/c-LBandArmor)
-- [Ingestion and analysis of audit logs for a Workspace / Google Cloud organization](goo.gle/c-AuditLogsBQ)
+- [HTTP Load Balancer with Cloud Armor](https://goo.gle/c-LBandArmor)
+- [Ingestion and analysis of audit logs for a Workspace / Google Cloud organization](https://goo.gle/c-AuditLogsBQ)
 
 ### Application Modernization
-- [Serverless Web Hosting Wordpress](goo.gle/c-AuditLogsBQ)
+- [Serverless Web Hosting Wordpress](https://goo.gle/c-AuditLogsBQ)
 
-We are constantly updating our portfolio with new use cases and looking to improve our solutions, so we really value feedback. Please feel in [this form](https://goo.gle/startupTemplateFeedback) if there's anything you'd like to share.
+We are constantly updating our portfolio with new use cases and looking to improve our solutions, so we really value feedback. Please feel in [this form](https://https://goo.gle/startupTemplateFeedback) if there's anything you'd like to share.
 
 ## Infrastructure as Code
 
