@@ -1,4 +1,4 @@
-# Solution Templates
+# Startup Solution Templates
 
 ![image](images/google_cloud_logo.png)
 
