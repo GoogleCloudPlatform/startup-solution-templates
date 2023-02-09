@@ -20,7 +20,7 @@ Last update: 23/01/2023
 ### Application Modernization
 - [Serverless Web Hosting Wordpress](https://goo.gle/c-AuditLogsBQ)
 
-We are constantly updating our portfolio with new use cases and looking to improve our solutions, so we really value feedback. Please feel in [this form](https://https://goo.gle/startupTemplateFeedback) if there's anything you'd like to share.
+We are constantly updating our portfolio with new use cases and looking to improve our solutions, so we really value feedback. Please feel in [this form](https://goo.gle/startupSolutionsFeedback) if there's anything you'd like to share.
 
 ## Infrastructure as Code
 Infrastructure as Code (IaC) is the management of infrastructure through a descriptive model that enables the provisioning and deployment of cloud resources. It enables more efficient change management by supporting environment changes in a way that can be tested (prior to actual deployment), automatically applied and audited as per business-defined process policies. DevOps teams can store these defined configurations in source control and leverage Continuous Integration and Continuous Deployment (CI/CD) pipelines to deploy infrastructure as needed. It supports the recommended best practices of keeping configurations repeatable, trackable and visible across the organisation.
