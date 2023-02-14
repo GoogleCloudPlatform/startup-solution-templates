@@ -18,7 +18,7 @@ Last update: 23/01/2023
 - [Ingestion and analysis of audit logs for a Workspace / Google Cloud organization](https://goo.gle/c-AuditLogsBQ)
 
 ### Application Modernization
-- [Serverless Web Hosting Wordpress](https://goo.gle/c-AuditLogsBQ)
+- [Serverless Web Hosting Wordpress](https://goo.gle/c-WPonCloudRun)
 
 We are constantly updating our portfolio with new use cases and looking to improve our solutions, so we really value feedback. Please feel in [this form](https://goo.gle/startupSolutionsFeedback) if there's anything you'd like to share.
 
